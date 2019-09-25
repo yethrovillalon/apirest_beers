@@ -141,5 +141,5 @@ components:
       type: object
       properties:
         Price Total:
-          type: number
+          type: number 
       
