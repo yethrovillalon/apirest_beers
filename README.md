@@ -17,7 +17,6 @@ https://golang.org/
 https://www.mongodb.com/es
 
 Ejecutando las pruebas ⚙️
-Explica como ejecutar las pruebas automatizadas para este sistema
 
 http://localhost/beers GET (Lista todas las cervezas)
 http://localhost/beers POST (Ingresa una nueva cerveza)
